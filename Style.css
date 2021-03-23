@@ -1,0 +1,85 @@
+html {
+    background-color: black;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: white);
+    border-radius: 2px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Stardos Stencil', cursive;
+    font-size: 4em;
+    text-align: center;
+    color: red;
+    padding: 20px;
+}
+
+body {
+    position: relative;
+    max-width: 80%;
+    margin: auto;
+}
+
+#opening {
+    font-size: 130%;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    width: 95%;
+    margin-left: 3%;
+}
+
+p {
+    font-style: normal;
+    text-align: left;
+    width: 95%;
+}
+
+#image {
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    width: 98%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    color: white;
+    font-style: normal;
+    font-size: 90%;
+    text-align: justify;    
+    width: 90%;
+    margin-left: 3%;
+}
+
+#tribute-info {
+    color: white;
+    position: relative;
+    display: block;
+    text-align: left;
+    width: 94%;
+    margin: auto auto auto 5%;
+    
+}
+
+#tribute-info li {
+    font-style: normal;
+}
+
+#link-out {
+    color: white;
+    position: relative;
+    font-size: 90%;
+    text-align: center;
+    margin: 20px auto auto 2%;
+}
+
+#link-out a {
+    color: white;
+    padding-bottom: 40px;
+}
